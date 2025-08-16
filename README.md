@@ -50,6 +50,9 @@ The repository is organized into different folders, each representing a practice
     ```
 
 ## 📸 Screenshots / Demos
+<img width="826" height="627" alt="image" src="https://github.com/user-attachments/assets/6cb6a750-da82-405d-8399-ef0603388365" />
+
+
 
 
 ## 🤝 Contributions
@@ -57,3 +60,4 @@ This is a personal learning repo, but feel free to fork and try out your own exp
 
 ## 📜 License
 This repository is for practice and learning purposes only.
+
